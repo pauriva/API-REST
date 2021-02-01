@@ -62,7 +62,7 @@ module.exports = {
 },
 
   /*mysql: {
-    client: 'mysql',
+    client: 'mysqlhola',
     connection: {
       host: Env.get('DB_HOST', 'localhost'),
       port: Env.get('DB_PORT', '3306'),
